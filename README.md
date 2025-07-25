@@ -1,4 +1,5 @@
 📌 Veraverse
+
 🚀 Project Overview
 Creator AI is an AI-powered content generation application built using Next.js, React, TailwindCSS, Drizzle ORM, TypeScript, and Clerk for authentication. It leverages Google Gemini API to generate high-quality content efficiently. The app provides a seamless user experience with a modern UI, secure authentication, and a scalable Postgres database for content storage.
 
